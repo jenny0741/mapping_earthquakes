@@ -1,1 +1,1 @@
-# mapping_earthquakes
+# Earthquake Data Visualization
